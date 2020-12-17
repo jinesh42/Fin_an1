@@ -1,0 +1,43 @@
+Expenses
+March :  10, 728
+April: 10,112.99
+May: 9923
+June: 10624
+July: 10991 : 3947: 405:6639
+Aug:   8086 :2663 :914 :4509
+Sep: 9280:3033 :1160:5087
+Oct: 8730:2917 :833 :4980 
+Nov: 8652:3020:733:4899
+Dec:  9573 :3341:568:5664 
+Jan: 7146:1789 :  845 : 4512  
+Feb: 9558 :  3712 : 856 : 4990
+March: Bal: 114459
+1march: account balance: 144740.37
+2 march: 106 transport + 90 food  + 20 food + 15 transport + 40 food
+3 march: 90 food + 28 food + 40 food
+4 march: 158 food + 15 transport 
+5 march: 100 food + 27 transport  + 28 food 
+6 march: 80 food +4500 ex + 68 food + 15 bus 
+7 march: 100 food + 60 ex + 
+8 march: 80 food + 30 food 
+9 march: 90 food + 35 food
+10 march: 92 food +
+11 March : 158 food 
+12 march: 20 food + 90 food + 33 food  + 15 bus
+13 march: 70 food + 23 bus+ 22 food  + 40 food
+14 march: 80 food + 30 food 
+15 march: 70 food + 30 bus + 40 food + 
+16 march: 70 food + 10 ex + 25 bus + 40 food
+17 march: 70 food + 15 bus + 40 food
+18 March: 70 food + 15 bus + 35 food 
+19 march: 70 food + 20 food 
+20 march: 20 food + 10 food + 245 food + 20 food + 10 food 
+21 march: 65 food 
+22 march: 123 food +
+23 march: 123 food + 30 food
+24 March : 30 food + 34 food + 600 transport
+28 March : 329 ex 
+31 March: 598 ex
+March:122043.37 balance
+Imp:11000 madhav PG has taken 
+April:1544822.37 with salary balance
